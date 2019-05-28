@@ -1,0 +1,16 @@
+{
+  "name": "mage2tv/module-apollo-boost-amd",
+  "description": "The popular apollo-boost graphql library transpiled to AMD, wrapped in a Magento 2 module.",
+  "type": "magento2-module",
+  "require": {
+    "php": ">=7.0.0"
+  },
+  "license": [
+    "MIT"
+  ],
+  "autoload": {
+    "files": [
+      "registration.php"
+    ]
+  }
+}
